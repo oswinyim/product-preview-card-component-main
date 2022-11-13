@@ -14,6 +14,7 @@ const Wrapper = styled.div`
   align-items: center;
   justify-content: center;
   padding: 2rem 10px;
+  overflow: hidden;
 `;
 
 const Card = styled.div`
@@ -22,7 +23,7 @@ const Card = styled.div`
   border-radius: 12px;
   display: grid;
   grid-auto-flow: row;
-  @media only screen and (min-width: 425px) {
+  @media only screen and (min-width: 426px) {
     grid-auto-flow: column;
     grid-template-columns: 1fr 1fr;
     width: 650px;
@@ -32,13 +33,13 @@ const Card = styled.div`
     width: 100%;
     border-radius: 12px 12px 0 0;
     height: 100%;
-    @media only screen and (min-width: 425px) {
+    @media only screen and (min-width: 426px) {
       content: url(${desktopImage});
       border-radius: 12px 0 0 12px;
     }
   }
 
-  @media only screen and (min-width: 425px) {
+  @media only screen and (min-width: 426px) {
     flex-direction: row;
   }
 `;
@@ -90,7 +91,7 @@ const Content = styled.div`
     font-size: 0.8rem;
   }
 
-  @media only screen and (min-width: 425px) {
+  @media only screen and (min-width: 426px) {
     padding: 1.7rem 2rem;
     gap: 1rem;
   }
