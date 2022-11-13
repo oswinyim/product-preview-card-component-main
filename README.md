@@ -24,13 +24,11 @@ Users should be able to:
 - See hover and focus states for interactive elements
 
 ### Screenshot
-![Laptop-1-1440x900](https://user-images.githubusercontent.com/67218011/201503432-39e986be-ac60-49d1-b487-5d672e71c943.png)
-![iPhone-XR-XS-Max-414x896](https://user-images.githubusercontent.com/67218011/201503453-fdd47d06-d325-4695-b867-3b1f486a184c.png)
+<img width="1918" alt="CleanShot 2022-11-12 at 22 05 53@2x" src="https://user-images.githubusercontent.com/67218011/201503701-ad9e9251-85ff-4dde-9767-d79339edfc3c.png">
+<img width="361" alt="CleanShot 2022-11-12 at 22 06 19@2x" src="https://user-images.githubusercontent.com/67218011/201503715-22ffc1d8-7519-417e-b279-a21710afd35b.png">
 
 ### Links
 - Live Site URL: [https://product-preview-card-component-main-oswinyim.vercel.app/](https://product-preview-card-component-main-oswinyim.vercel.app/)
-
-## My process
 
 ### Built with
 
