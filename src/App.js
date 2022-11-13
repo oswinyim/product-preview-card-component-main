@@ -62,6 +62,10 @@ const Content = styled.div`
     line-height: 1.3rem;
   }
 
+  h2 {
+    letter-spacing: 5px;
+  }
+
   h1 {
     font-family: "Fraunces", serif;
   }
@@ -87,7 +91,6 @@ const Content = styled.div`
   }
 
   @media only screen and (min-width: 425px) {
-    // justify-content: center;
     padding: 1.7rem 2rem;
     gap: 1rem;
   }
